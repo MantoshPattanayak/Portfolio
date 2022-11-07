@@ -1,0 +1,38 @@
+cont{
+	margin: 25px;
+	font-family: sans-serif;
+	text-decoration: none;
+}
+.mant{
+	background-color: black;
+	widthL: 300px;
+	height: 400px;
+	padding: 16px;
+	margin: -25px;
+	color: blue;
+	text-align: center;
+
+}
+#mt{
+	width: 100px;
+	height: 200px;
+
+}
+#th{
+	width: 50px;
+	 height: 80px:
+}
+div h2{
+
+	text-align: center;
+
+}
+#jt{
+	padding: 10px;
+	pointer-events: none;
+  cursor: default;
+}
+.m{
+	pointer-events: none;
+  cursor: default;
+}
